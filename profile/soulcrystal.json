@@ -1,14 +1,14 @@
 {
 	 "NAME": {
-		 "selector": "div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > h2:nth-child(2)",
+		 "selector": ".db-tooltip__item__name",
 		 "type": "string"
 	 },
 	 "CLASS_LIST": {
-		 "selector": ".db-tooltip > div:nth-child(1) > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(1)",
+		 "selector": ".db-tooltip__item_equipment__class",
 		 "type": "string"
 	 },
 	 "ITEM_LEVEL": {
-		 "selector": ".db-tooltip > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)",
+		 "selector": ".db-tooltip__item__level",
 		 "type": "string"
 	}
 }
