@@ -1,0 +1,14 @@
+{
+	 "NAME": {
+		 "selector": ".db-tooltip__item__name",
+		 "type": "string"
+	 },
+	 "CLASS_LIST": {
+		 "selector": ".db-tooltip__item_equipment__class",
+		 "type": "string"
+	 },
+	 "ITEM_LEVEL": {
+		 "selector": ".db-tooltip__item__level",
+		 "type": "string"
+	}
+}
